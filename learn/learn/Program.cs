@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace learn
 {
     public class Program
@@ -9,6 +11,9 @@ namespace learn
             // Add services to the container.
 
             builder.Services.AddControllers();
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             WebApplication app = builder.Build();
 

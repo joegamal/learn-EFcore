@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\api\\learn\\",
+  "WorkspaceRootPath": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\learn-EFcore\\learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFFB106-9F95-487D-847C-8BD82B1109CB}|learn\\learn.csproj|c:\\users\\yusuf gamal\\onedrive\\desktop\\dotnet_example\\api\\learn\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFFFB106-9F95-487D-847C-8BD82B1109CB}|learn\\learn.csproj|c:\\users\\yusuf gamal\\onedrive\\desktop\\dotnet_example\\learn-efcore\\learn\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFFB106-9F95-487D-847C-8BD82B1109CB}|learn\\learn.csproj|solutionrelative:learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFFFB106-9F95-487D-847C-8BD82B1109CB}|learn\\learn.csproj|c:\\users\\yusuf gamal\\onedrive\\desktop\\dotnet_example\\api\\learn\\learn\\learn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BFFFB106-9F95-487D-847C-8BD82B1109CB}|learn\\learn.csproj|solutionrelative:learn\\learn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +22,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "learn.http",
-              "DocumentMoniker": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\api\\learn\\learn\\learn.http",
-              "RelativeDocumentMoniker": "learn\\learn.http",
-              "ToolTip": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\api\\learn\\learn\\learn.http",
-              "RelativeToolTip": "learn\\learn.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-29T15:09:03.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\api\\learn\\learn\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\learn-EFcore\\learn\\learn\\Program.cs",
               "RelativeDocumentMoniker": "learn\\Program.cs",
-              "ToolTip": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\api\\learn\\learn\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusuf Gamal\\OneDrive\\Desktop\\dotnet_example\\learn-EFcore\\learn\\learn\\Program.cs",
               "RelativeToolTip": "learn\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAADoMjMzMzM7wBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T01:55:16.269Z",
               "EditorCaption": ""
